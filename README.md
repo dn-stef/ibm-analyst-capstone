@@ -58,13 +58,8 @@ A REST API was then used to retrieve additional data via requests and json, whic
 Finally, data was gathered through web scraping with BeautifulSoup, refined through custom cleaning and formatting steps, and further visualized to support the overall analysis.
 
 ## 👤 About the Author
-Daniel Stefanian
-B.Sc. in Physics | Aspiring Data Analyst
-
-I'm a passionate self-learner with a strong foundation in Python, SQL, and data storytelling. My background in physics and my curiosity for patterns have driven me to transition into data analytics. I completed IBM’s Data Analyst and Data Science certificate programs and am excited to begin applying my skills in professional settings.
-
-Connect with me at:
-📧 danielstefanian@gmail.com
+I'm a physics graduate with a focus on data analysis and Python programming. 
+I work with Python, data visualization, and building tools that simplify complex tasks.
 ___
 <p align="left">
     <img src="https://skills.network/logos/SN_web_lightmode.png" alt="IBM Skills Network Logo" width="150" height="150"/>
